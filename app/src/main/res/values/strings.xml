@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="edt_link_hint">Digite um link para uma imagem</string>
+    <string name="byn_baixar_imagem_text">Baixar Imagem</string>
+    
+    <string name="prd_loading_titulo">Por favor, aguarde...</string>
+    <string name="prd_loading_mensagem">Baixando imagem...</string>
+</resources>
